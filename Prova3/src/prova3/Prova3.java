@@ -25,4 +25,7 @@ public class Prova3 {
     
     }
     
+    public static int resta(int n1, int n2) {
+        return n1-n2;
+    }
 }
